@@ -9,8 +9,8 @@ Code Links
 [[Hello.py]] 
 [[multi-line-print.py]] 
 
-[[trying-externam-module.py]]
-[[contents-of-directory.py]]
+3.[[trying-externam-module.py]]
+4.[[contents-of-directory.py]]
 
 
 

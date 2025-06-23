@@ -8,12 +8,12 @@ Notes
 
 
 code links
-[[escape-seq.py]]
 [[str-functions.py]]
 [[string-slicing.py]]
-[[letter-printing.py]]
-[[greetings.py]]
-[[double-spaces.py]]
+1.[[greetings.py]]
+2.[[letter-printing.py]]
+3&4.[[double-spaces.py]]
+5.[[escape-seq.py]]
 
 
 Next Chapter

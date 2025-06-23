@@ -7,15 +7,15 @@ Previous Chapter
 Notes
 
 code Links
-[[input-addition.py]]
 [[Typecasting.py]]
 [[operators.py]]
 [[datatypes.py]]
-[[remainder.py]]
-[[average.py]]
-[[square-&-sqrt.py]]
-[[input.py]]
-[[comparison.py]]
+1.[[input-addition.py]]
+2.[[remainder.py]]
+3.[[input.py]]
+4.[[comparison.py]]
+5.[[average.py]]
+6.[[square-&-sqrt.py]]
 
 
 

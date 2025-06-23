@@ -9,15 +9,15 @@ Notes
 
 code links
 [[conditionals.py]]
-[[grades.py]]
-[[greatest-of-four.py.py]]
 [[if-elif-else-ladder.py]]
-[[length-checker.py]]
 [[multiple-if-statements.py]]
-[[name-in-list.py]]
-[[name-in-post.py]]
-[[pass-or-fail.py]]
-[[spam-checker.py]]
+1.[[greatest-of-four.py.py]]
+2.[[pass-or-fail.py]]
+3.[[spam-checker.py]]
+4.[[length-checker.py]]
+5.[[name-in-list.py]]
+6.[[grades.py]]
+7.[[name-in-post.py]]
 
 
 

@@ -13,9 +13,9 @@ code links
 [[set-methods.py]]
 [[set-union-intersection.py]]
 [[list-in-set.py]]
-[[friends-&-languages.py]]
-[[unique-numbers.py]]
-[[translator-dict.py]]
+1.[[translator-dict.py]]
+2.[[unique-numbers.py]]
+6.[[friends-&-languages.py]]
 
 
 

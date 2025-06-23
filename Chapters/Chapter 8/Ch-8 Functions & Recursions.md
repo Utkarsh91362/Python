@@ -11,14 +11,14 @@ code links
 [[funcn-with-argument.py]]
 [[default-argument.py]]
 [[recursion-factorial.py]]
-[[greatest-of-three.py]]
-[[celsius-to-fahrenheit.py]]
-[[multi-print-without-new-line.py]]
-[[recursive-sum-of-n-numbers.py]]
-[[pattern-funcn.py]]
-[[inch-to-cm.py]]
-[[func-to-remove-from-list.py]]
-[[func-to-print-table.py]]
+1.[[greatest-of-three.py]]
+2.[[celsius-to-fahrenheit.py]]
+3.[[multi-print-without-new-line.py]]
+4.[[recursive-sum-of-n-numbers.py]]
+5.[[pattern-funcn.py]]
+6.[[inch-to-cm.py]]
+7.[[func-to-remove-from-list.py]]
+8.[[func-to-print-table.py]]
 
 
 

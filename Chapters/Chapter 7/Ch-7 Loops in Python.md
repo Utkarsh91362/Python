@@ -10,14 +10,14 @@ Notes
 code links
 [[break-continue-pass.py]]
 [[content-of-list.py]]
-[[factorial.py]]
 [[for-loops.py]]
 [[for-with-else.py]]
-[[greet-list.py]]
-[[multiplication-table.py]]
-[[prime-number.py]]
-[[star-pattern.py]]⭐⭐
-[[sum-of-n-numbers.py]]
+1&3&8.[[multiplication-table.py]]
+2.[[greet-list.py]]
+4.[[prime-number.py]]
+5.[[sum-of-n-numbers.py]]
+6.[[factorial.py]]
+7.[[star-pattern.py]]⭐⭐
 [[while-loop.py]]
 
 
