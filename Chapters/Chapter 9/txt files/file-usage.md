@@ -2,7 +2,7 @@
 [[copy1]]
 [[donkey]]
 [[file]]
-[[highscore]]
+[[Python/Chapters/Chapter 9/txt files/highscore]]
 [[log]]
 [[poem]]
 [[replacement-file]]

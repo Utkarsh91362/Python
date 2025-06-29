@@ -1,6 +1,6 @@
 #project
 
-Guessing Game main file [[Python/Projects/Project 2/main.py]]
+Guessing Game main file [[Python/Projects/Guessing Game/main.py]]
 
 
 ---
@@ -158,4 +158,4 @@ NO. of guesses you took: 3
 
 ---
 
-[[Python/Projects/Project 2/highscore|highscore]]
+[[Python/Projects/Guessing Game/highscore|highscore]]

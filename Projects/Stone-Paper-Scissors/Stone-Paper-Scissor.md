@@ -1,6 +1,6 @@
 #project
 
-Stone Paper Scissor game [[main.py]]
+Stone Paper Scissor game [[Python/Projects/Stone-Paper-Scissors/main.py]]
 
 
 ---
