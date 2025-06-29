@@ -25,6 +25,7 @@ def guessing(user,computer):
     return False    
 
 def play_game(computer):
+    global count
     print("Welcome to the Guessing game!")
     
     while True:
@@ -38,9 +39,21 @@ def play_game(computer):
         if(guessing(user,computer)):
             break
     print(f"NO. of guesses you took: {count}")
-    return computer
-        
-    
-comp=computer_chose()
+    return count
 
-play_game(comp)
+
+try:
+    with open("highscore.md", "r") as f:
+        highscore=int(f.read())
+except:
+    highscore=0
+comp=computer_chose()
+current_game=play_game(comp)
+if(int(highscore)>current_game or highscore==0 ):
+    highscore=current_game
+    with open("highscore.md","w") as f:
+        f.write(str(highscore))
+    print(f"Congrats you created a new highscore : {highscore}")
+else:
+    print(f"Highscore: {highscore} ")
+

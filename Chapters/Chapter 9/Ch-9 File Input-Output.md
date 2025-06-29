@@ -24,7 +24,7 @@ Q10    [[wipe-content-of-file.py]]
 Q11    [[rename-file.py]]
 
 txt-files
-[[file-usage]]
+[[Python/Chapters/Chapter 9/txt files/file-usage]]
 
 
 

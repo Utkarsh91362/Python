@@ -158,3 +158,4 @@ NO. of guesses you took: 3
 
 ---
 
+[[Python/Projects/Project 2/highscore|highscore]]
